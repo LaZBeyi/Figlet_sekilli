@@ -1,4 +1,4 @@
-<h2>Termux Command</h2>
+<h2>Termux Komutları</h2>
 
 
 - ```apt-get update``` </br>
